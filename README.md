@@ -1,4 +1,5 @@
-![Header](https://www.dropbox.com/s/azyo97v1j5wpvcy/header.png)
+![Header](https://raw.githubusercontent.com/roblack/xCodeShortcuts/master/img/header.png)
+
 # Xcode Shortcuts
 
 List of shortcuts for Xcode, suggested by [Sean Allen](https://twitter.com/seanallen_dev).
